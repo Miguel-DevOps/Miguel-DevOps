@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/149214737?v=4"  />
-</div>
-
 <h2 align="left">Hello👋! My name is Miguel and I am a Full Stack Developer from LATAM</h2>
 
 ###
