@@ -9,7 +9,7 @@ I help innovative companies build and scale robust and secure web applications w
 ###
 
 <div align="center">
-  <a href="mailto:desarrollo@developmi.com" target="_blank">
+  <a href="mailto:miguel@developmi.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/miguel-dev-ops/" target="_blank">
