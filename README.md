@@ -1,11 +1,13 @@
 <h1 align="center">Hello 👋! I'm Miguel Lozano.</h1>
-<h2 align="center">☁️ Cloud Solutions Architect | Full Stack Developer | Developmi</h2>
+<h2 align="center">☁️ Lead Platform Engineer | Cloud Architect Consultant</h2>
+<h3 align="center">FinOps • Observability • Infrastructure Efficiency</h3>
 
 ###
 
-**🚀 Transforming complex business challenges into robust, scalable, and secure Cloud architectures.**
-
-I help innovative companies build and scale mission-critical web applications with Next.js and NestJS, orchestrating efficient Cloud infrastructures (AWS/GCP/Azure) and automating with DevOps, so they can launch products faster and with total confidence in their stability and cybersecurity.
+<p align="center">
+  <strong>I architect the factories where software lives.</strong><br>
+  I transform complex infrastructure into a competitive advantage by designing internal platforms that eliminate friction, ensure security, and maximize financial efficiency. My philosophy is <strong>Radical Pragmatism</strong>: zero overengineering, 100% impact.
+</p>
 
 ###
 
@@ -25,48 +27,53 @@ I help innovative companies build and scale mission-critical web applications wi
 
 ---
 
-<h3 align="left">🛠️ Key Technologies & Tools (My Expertise Ecosystem):</h3>
+<h3 align="left">🛠️ Engineering Stack & Tooling:</h3>
 
+<p align="left"><strong>☁️ Cloud & Infrastructure (The FinOps Mix):</strong></p>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="NestJS logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="Symfony logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="AWS logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="Redis logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="30" alt="GitHub Actions logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="Jest logo" /> <img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="30" alt="Cypress logo"/><img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="PHPStorm logo" /> <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana logo" /> <img width="8" />
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Bare Metal / Linux" title="Bare Metal / Hetzner" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+</div>
+
+<p align="left"><strong>👁️ Observability & DevOps:</strong></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</div>
+
+<p align="left"><strong>💻 Scripting & Backend Logic:</strong></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
+</div>
 
 ###
 
 ---
 
-<h3 align="left">💡 My Strategic Focus & Passions:</h3>
-<p align="left">I transform complex business challenges into technological solutions that drive efficiency and resilience. Currently, I'm focused on developing my own SaaS products, aiming to decouple income from time and generate scalable, long-term impact.</p>
+<h3 align="left">🧠 My Engineering Philosophy:</h3>
+
+* **FinOps First:** I move compute-intensive workloads from Hyperscalers to Bare Metal (Hetzner) to slash costs without losing performance.
+* **Pragmatic Orchestration:** I love Kubernetes, but I only deploy it when the scale demands it. No "Resume Driven Development".
+* **Governance:** I enforce standards like **RFC 7807** for APIs and align lifecycles with **TOGAF**.
+* **Resilience:** If it's not monitored (OpenTelemetry/Prometheus), it doesn't exist. I believe in Chaos Engineering to validate stability.
 
 ###
 
-<h3 align="left">🤝 Let's Connect:</h3>
-<p align="left">I'm open to new high-impact opportunities and strategic collaborations. If you're looking for a Cloud Solutions Architect with deep expertise in scalable architectures, DevOps, and Cybersecurity, feel free to contact me.</p>
+<h3 align="left">🤝 Let's Collaborate:</h3>
+<p align="left">I'm open to consulting opportunities focused on <strong>Platform Engineering, Cloud Cost Optimization, and SRE</strong>. If you need to scale your infrastructure securely or reduce your cloud bill, let's talk.</p>
 
 ###
-
----
 
 <div align="center">
   <a href="https://developmi.com/" target="_blank"><strong>Explore my Portfolio & Case Studies 🚀</strong></a>
