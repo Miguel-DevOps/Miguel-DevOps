@@ -59,7 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" /> <img width="10" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Clickhouse_logo.svg" height="35" alt="ClickHouse" title="ClickHouse Analytics" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg" height="35" alt="ClickHouse" title="ClickHouse Analytics" />
 </div>
 
 ###
