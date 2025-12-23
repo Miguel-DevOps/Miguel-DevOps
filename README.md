@@ -1,12 +1,12 @@
 <h1 align="center">Hello 👋! I'm Miguel Lozano.</h1>
-<h2 align="center">☁️ Lead Platform Engineer | Cloud Architect Consultant</h2>
-<h3 align="center">FinOps • Observability • Infrastructure Efficiency</h3>
+<h2 align="center">🐧 Cloud Infrastructure Engineer | DevOps & SRE</h2>
+<h3 align="center">Linux • Observability • Bare Metal • Backend Logic</h3>
 
 ###
 
 <p align="center">
-  <strong>I architect the factories where software lives.</strong><br>
-  I transform complex infrastructure into a competitive advantage by designing internal platforms that eliminate friction, ensure security, and maximize financial efficiency. My philosophy is <strong>Radical Pragmatism</strong>: zero overengineering, 100% impact.
+  <strong>Bridging the gap between Code and Operations.</strong><br>
+  I am a pragmatic Infrastructure Engineer with a strong background in Backend Development. I build secure, observable, and cost-efficient platforms using <strong>Bare Metal</strong> and <strong>Containerization</strong>. I don't just run the servers; I understand the code (Python/Node/PHP) running on them.
 </p>
 
 ###
@@ -27,32 +27,35 @@
 
 ---
 
-<h3 align="left">🛠️ Engineering Stack & Tooling:</h3>
+<h3 align="left">🛠️ The Stack (Dev + Ops):</h3>
 
-<p align="left"><strong>☁️ Cloud & Infrastructure (The FinOps Mix):</strong></p>
+<p align="left"><strong>🐧 Infrastructure & SRE:</strong></p>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="AWS" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Bare Metal / Linux" title="Bare Metal / Hetzner" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Debian/Arch" title="Debian & Arch Linux" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash Scripting" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx/Traefik" />
 </div>
 
-<p align="left"><strong>👁️ Observability & DevOps:</strong></p>
+<p align="left"><strong>👁️ Observability & Monitoring (The Eyes):</strong></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  </div>
+
+<p align="left"><strong>💻 Backend & API Development (The Logic):</strong></p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python (FastAPI)" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js (NestJS)" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP (Laravel)" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
 </div>
 
-<p align="left"><strong>💻 Scripting & Backend Logic:</strong></p>
+<p align="left"><strong>🗄️ Data & Caching:</strong></p>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
 </div>
@@ -61,20 +64,20 @@
 
 ---
 
-<h3 align="left">🧠 My Engineering Philosophy:</h3>
+<h3 align="left">⚡ Engineering Philosophy:</h3>
 
-* **FinOps First:** I move compute-intensive workloads from Hyperscalers to Bare Metal (Hetzner) to slash costs without losing performance.
-* **Pragmatic Orchestration:** I love Kubernetes, but I only deploy it when the scale demands it. No "Resume Driven Development".
-* **Governance:** I enforce standards like **RFC 7807** for APIs and align lifecycles with **TOGAF**.
-* **Resilience:** If it's not monitored (OpenTelemetry/Prometheus), it doesn't exist. I believe in Chaos Engineering to validate stability.
+* **Observability is not Optional:** I use **OpenTelemetry, Loki, and Grafana** to make sure systems are transparent. If you can't trace it, you can't fix it.
+* **Bare Metal Efficiency:** I specialize in high-performance setups on **Hetzner** to avoid cloud tax.
+* **Dev-Native:** I write production-ready code in **Python and Node.js**. I don't just "script"; I build internal tools and microservices.
+* **Security by Design:** NIST-aligned hardening, strict firewalling (UFW), and secrets management.
 
 ###
 
-<h3 align="left">🤝 Let's Collaborate:</h3>
-<p align="left">I'm open to consulting opportunities focused on <strong>Platform Engineering, Cloud Cost Optimization, and SRE</strong>. If you need to scale your infrastructure securely or reduce your cloud bill, let's talk.</p>
+<h3 align="left">🤝 Let's Build:</h3>
+<p align="left">Open to roles in <strong>SRE, DevOps, and Linux Systems Engineering</strong>. If you need someone who can debug the Kernel <i>and</i> the API code, let's talk.</p>
 
 ###
 
 <div align="center">
-  <a href="https://developmi.com/" target="_blank"><strong>Explore my Portfolio & Case Studies 🚀</strong></a>
+  <a href="https://developmi.com/" target="_blank"><strong>🌐 developmi.com</strong></a>
 </div>
