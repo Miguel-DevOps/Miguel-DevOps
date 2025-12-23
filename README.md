@@ -42,9 +42,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" /> <img width="10" />
-  </div>
+</div>
 
-<p align="left"><strong>💻 Backend & API Development (The Logic):</strong></p>
+<p align="left"><strong>💻 Backend & API Development (Polyglot Support):</strong></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python (FastAPI)" /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" /> <img width="10" />
@@ -57,7 +57,9 @@
 <p align="left"><strong>🗄️ Data & Caching:</strong></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" /> <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB" /> <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" /> <img width="10" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Clickhouse_logo.svg" height="35" alt="ClickHouse" title="ClickHouse Analytics" />
 </div>
 
 ###
@@ -68,7 +70,8 @@
 
 * **Observability is not Optional:** I use **OpenTelemetry, Loki, and Grafana** to make sure systems are transparent. If you can't trace it, you can't fix it.
 * **Bare Metal Efficiency:** I specialize in high-performance setups on **Hetzner** to avoid cloud tax.
-* **Dev-Native:** I write production-ready code in **Python and Node.js**. I don't just "script"; I build internal tools and microservices.
+* **Polyglot Operations:** I write production-ready code in **Python, Node.js, and PHP**. I don't just "script"; I debug the full stack.
+* **Data Performance:** Tuning **MariaDB** for reliability and leveraging **ClickHouse** for high-volume analytics.
 * **Security by Design:** NIST-aligned hardening, strict firewalling (UFW), and secrets management.
 
 ###
