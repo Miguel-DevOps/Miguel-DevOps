@@ -1,15 +1,13 @@
 <h1 align="center">Hello, I'm Miguel Lozano 👋</h1>
-<h2 align="center">Cloud Infrastructure Engineer | DevOps & SRE</h2>
+<h2 align="center">SRE & FinOps Architect | AI Infrastructure Specialist</h2>
 <h3 align="center">
   <a href="https://developmi.com">developmi.com</a>
 </h3>
 
 <p align="center">
-  <strong>The Cloud is not a charity. I make it efficient.</strong><br>
-  I bridge the gap between <strong>Complex Backend Code</strong> and <strong>Operational Stability</strong>. 
-  <br>
-  Whether scaling <strong>Enterprise Kubernetes</strong> clusters or optimizing <strong>Bare Metal</strong> for startups, my goal is the same: 
-  Resilience, Security, and radical Cost Efficiency.
+  <strong>"Boring is Better. Sovereignty is Mandatory."</strong><br>
+  Architecting high-performance, cost-efficient infrastructure by eliminating the "Cloud Tax" 
+  and building private <strong>AI Agent Factories</strong>.
 </p>
 
 <div align="center">
@@ -26,14 +24,13 @@
 
 ---
 
-### ⚔️ The Arsenal: Enterprise & Pragmatic
+### ⚔️ My Arsenal: Enterprise & Pragmatic
 
 I maintain a versatile stack to adapt to the mission: **Standard & Scalable** for corporate environments, **Lightweight & Sovereign** for independent infrastructure.
 
 #### ☁️ Infrastructure & Orchestration
 <div align="left">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
@@ -92,7 +89,7 @@ I maintain a versatile stack to adapt to the mission: **Standard & Scalable** fo
 ---
 
 <div align="center">
-  <h3>🤝 Open to SRE, Platform Engineering & FinOps Audits</h3>
-  <p>Looking for a partner who can debug the Kernel <i>and</i> the API code? Let's talk.</p>
+  <h3>Building Sustainable Tech Careers & Sovereign Assets 🤝</h3>
+  <p>Currently focused on <strong>AI Agent Orchestration</strong> and <strong>Fractional SRE</strong> for high-growth startups.</p>
   <a href="https://developmi.com/"><strong>🌐 Visit My Portfolio: developmi.com</strong></a>
 </div>
