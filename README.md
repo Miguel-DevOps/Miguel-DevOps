@@ -1,95 +1,63 @@
-<h1 align="center">Hello, I'm Miguel Lozano 👋</h1>
-<h2 align="center">SRE & FinOps Architect | AI Infrastructure Specialist</h2>
-<h3 align="center">
-  <a href="https://developmi.com">developmi.com</a>
-</h3>
+<h1 align="center">Hello, I'm Miguel Lozano</h1>
+<h3 align="center">Cloud Infrastructure Engineer | FinOps & Bare Metal Specialist</h3>
+<p align="center">Building <strong>Sovereign AI Platforms</strong> & Escaping the <strong>Cloud Tax</strong>.</p>
 
-<p align="center">
-  <strong>"Boring is Better. Sovereignty is Mandatory."</strong><br>
-  Architecting high-performance, cost-efficient infrastructure by eliminating the "Cloud Tax" 
-  and building private <strong>AI Agent Factories</strong>.
-</p>
+<div align="center">
+  <a href="https://developmi.com"><strong>🌐 developmi.com</strong></a>
+</div>
 
 <div align="center">
   <a href="mailto:miguel@developmi.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/miguel-dev-ops/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/573134692221">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
 </div>
 
 ---
 
-### ⚔️ My Arsenal: Enterprise & Pragmatic
+### 🚀 The Mission: Capital Efficiency & Sovereignty
 
-I maintain a versatile stack to adapt to the mission: **Standard & Scalable** for corporate environments, **Lightweight & Sovereign** for independent infrastructure.
+I help startups and SMEs escape the **"Hyperscaler Trap"** (AWS/Azure). I don't sell hours of configuration; I sell **Capital Efficiency**.
 
-#### ☁️ Infrastructure & Orchestration
-<div align="left">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
-</div>
+My engineering philosophy is **"Boring is Better"**: I reject unnecessary complexity (like premature Kubernetes) in favor of robust, maintainable, and cost-effective architectures.
 
-#### 🤖 IaC, Automation & CI/CD
-<div align="left">
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black" />
-  <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?style=flat-square&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" />
-</div>
-
-#### 👁️ Observability & Security (The Eyes & Shield)
-<div align="left">
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/VictoriaMetrics-000000?style=flat-square&logo=victoriametrics&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrowdSec-463075?style=flat-square&logo=crowdsec&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mozilla_SOPS-000000?style=flat-square&logo=mozilla&logoColor=white" />
-</div>
-
-#### 💻 Backend & Network Logic
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Traefik-24292E?style=flat-square&logo=traefik&logoColor=white" />
-  <img src="https://img.shields.io/badge/caddy-%2300ADD8.svg?style=flat-square&logo=caddy&logoColor=white" />
-</div>
-
-#### 🗄️ Data & State
-<div align="left">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
-</div>
+#### 🎯 Core Focus
+* **📉 Cloud-Exit Strategy (FinOps):** Migrating workloads to **Hetzner Bare Metal**, typically cutting monthly OpEx by **40-60%**.
+* **🤖 Sovereign AI Factory:** Deploying private, stateful AI Agents (DeepSeek/Llama) on owned hardware. **Zero data leakage, zero token costs.**
+* **🛡️ Edge Security:** Enforcing **OWASP/NIST** compliance at the ingress using custom **Caddy + Coraza WAF** builds.
 
 ---
 
-### ⚡ Engineering Philosophy
+### ⚔️ My Tech Stack
 
-* **Observability is non-negotiable:** If you can't trace it, you can't fix it. I deploy **OpenTelemetry** and **Loki** to ensure 100% system transparency.
-* **FinOps & Bare Metal:** Cloud bills shouldn't kill startups. I specialize in high-performance repatriation to **Hetzner (AX Series)** using **OpenTofu**.
-* **Dev-Centric Ops:** I don't just "script"; I debug the full stack. I enforce API standards like **RFC 7807** to make infrastructure predictable for developers.
-* **Security by Design:** Compliance isn't an afterthought. I implement **NIST-aligned** hardening, **CrowdSec** IPS, and **GitOps** secret management (SOPS) from Day 1.
+I maintain a strict, pragmatic stack designed for **Observability, Security, and low TCO**.
+
+| Domain | Technologies |
+| :--- | :--- |
+| **☁️ Infrastructure** | ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) ![Debian](https://img.shields.io/badge/Debian_13-A81D33?style=flat-square&logo=debian&logoColor=white) |
+| **⚙️ Orchestration** | ![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat-square&logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer_BE-13BEF9?style=flat-square&logo=portainer&logoColor=white) ![K3s](https://img.shields.io/badge/K3s_(Scale)-FFC61C?style=flat-square&logo=kubernetes&logoColor=black) |
+| **🛠️ IaC & Config** | ![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **🛡️ Security & Edge** | ![Caddy](https://img.shields.io/badge/Caddy_Web_Server-00ADD8?style=flat-square&logo=caddy&logoColor=white) ![Coraza WAF](https://img.shields.io/badge/Coraza_WAF-463075?style=flat-square&logo=owasp&logoColor=white) ![CrowdSec](https://img.shields.io/badge/CrowdSec-463075?style=flat-square&logo=crowdsec&logoColor=white) ![SOPS](https://img.shields.io/badge/Mozilla_SOPS-000000?style=flat-square&logo=mozilla&logoColor=white) |
+| **👁️ Observability** | ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-000000?style=flat-square&logo=victoriametrics&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| **🧠 AI Infrastructure** | ![DeepSeek](https://img.shields.io/badge/DeepSeek_V3-000000?style=flat-square&logo=openai&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=python&logoColor=white) |
+
+---
+
+### 📂 Featured Public Engineering
+
+While most of my work involves confidential infrastructure under NDA, I maintain key public repositories to demonstrate architectural standards:
+
+* **[NIST Hardening Suite](https://github.com/Miguel-DevOps/nist-hardening-suite):** Ansible role for turning Debian 13 into a fortress. Implements NIST 800-53 controls (SSH Hardening, AuditD) and active defense via CrowdSec.
+* **[FinOps Alert CLI](https://github.com/Miguel-DevOps/finops-alert-cli):** Type-safe Python tool (Typer/Pydantic) to audit Hetzner Cloud infrastructure, detecting "zombie" resources and budget drifts.
+* **[Hybrid Swarm Protocol](https://github.com/Miguel-DevOps/hybrid-swarm-kit):** Reference architecture for Split-Horizon clusters spanning OCI (Edge) and Hetzner (Core) with zero-latency consensus issues.
+* **[Caddy WAF Edition](https://github.com/Miguel-DevOps/caddy-waf):** Production-hardened Caddy build integrated with Coraza WAF and OWASP Core Rule Set. Secure by default, container-native.
+* **[Chatbot Architecture Blueprint](https://github.com/Miguel-DevOps/chatbot-demo):** Educational blueprint demonstrating evolutionary architecture (React 19 + PHP 8.4), Clean Code principles, and automated CI/CD pipelines.
 
 ---
 
 <div align="center">
-  <h3>Building Sustainable Tech Careers & Sovereign Assets 🤝</h3>
-  <p>Currently focused on <strong>AI Agent Orchestration</strong> and <strong>Fractional SRE</strong> for high-growth startups.</p>
-  <a href="https://developmi.com/"><strong>🌐 Visit My Portfolio: developmi.com</strong></a>
+  <p><em>"Efficiency is the only metric that matters."</em></p>
+  <a href="https://developmi.com"><strong>Check my detailed case studies →</strong></a>
 </div>
