@@ -54,7 +54,7 @@ While most of my work involves confidential infrastructure under NDA, I maintain
 * **[Hybrid Swarm Protocol](https://github.com/Miguel-DevOps/hybrid-swarm-kit):** Reference architecture for Split-Horizon clusters spanning OCI (Edge) and Hetzner (Core) with zero-latency consensus issues.
 * **[Caddy WAF Edition](https://github.com/Miguel-DevOps/caddy-waf):** Production-hardened Caddy build integrated with Coraza WAF and OWASP Core Rule Set. Secure by default, container-native.
 * **[Chatbot Architecture Blueprint](https://github.com/Miguel-DevOps/chatbot-demo):** Educational blueprint demonstrating evolutionary architecture (React 19 + PHP 8.4), Clean Code principles, and automated CI/CD pipelines.
-
+* **[PassiveSentry](https://github.com/Miguel-DevOps/passive-sentry):** Passive OSINT security auditing framework aligned to OWASP Top 10 2025 (A01-A10). Delivers deterministic executive and technical reports from a single source of truth—no intrusive testing. Features massive batch processing, Streamlit dashboard, and Docker workflows.
 ---
 
 <div align="center">
